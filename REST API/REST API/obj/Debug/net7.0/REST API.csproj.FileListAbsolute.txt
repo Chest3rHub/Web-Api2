@@ -1,0 +1,33 @@
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/bin/Debug/net7.0/appsettings.Development.json
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/bin/Debug/net7.0/appsettings.json
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/bin/Debug/net7.0/REST API
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/bin/Debug/net7.0/REST API.deps.json
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/bin/Debug/net7.0/REST API.runtimeconfig.json
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/bin/Debug/net7.0/REST API.dll
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/bin/Debug/net7.0/REST API.pdb
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/REST API.csproj.AssemblyReference.cache
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/REST API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/REST API.AssemblyInfoInputs.cache
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/REST API.AssemblyInfo.cs
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/REST API.csproj.CoreCompileInputs.cache
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/REST API.MvcApplicationPartsAssemblyInfo.cs
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/REST API.MvcApplicationPartsAssemblyInfo.cache
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/staticwebassets/msbuild.REST API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/staticwebassets/msbuild.build.REST API.props
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.REST API.props
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.REST API.props
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/scopedcss/bundle/REST API.styles.css
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/REST API.csproj.CopyComplete
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/REST API.dll
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/refint/REST API.dll
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/REST API.pdb
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/REST API.genruntimeconfig.cache
+/Users/simeksowiecki/Desktop/WEB API 2/Web-Api2/REST API/REST API/obj/Debug/net7.0/ref/REST API.dll
